@@ -1,0 +1,5 @@
+{
+  "name": "Randi mava restaurent - Restaurant Management",
+  "description": "A modern restaurant management application featuring customer ordering, a real-time admin dashboard, and an AI-powered support assistant. All data is now persistently stored in your browser's local database (IndexedDB), so orders, menu items, and settings are saved between sessions.",
+  "requestFramePermissions": []
+}
