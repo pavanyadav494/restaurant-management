@@ -1,8 +1,8 @@
 import type { FoodItem, StaffMember } from './types';
 import { StaffRole } from './types';
 
-export const ADMIN_USERNAME = 'pavan';
-export const ADMIN_PASSWORD = 'Pavan@123';
+export const ADMIN_USERNAME = 'PavanYadav';
+export const ADMIN_PASSWORD = 'Pavan@8614';
 export const TOTAL_TABLES = 20;
 
 export const initialStaff: StaffMember[] = [
